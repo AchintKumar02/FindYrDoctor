@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Appt_Form.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Appt_Records_Form.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Confirm_Dialog.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Dr_Reg_Form.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Dr_Records_Form.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Main_Form.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Payment_Form.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Pay_Records_Form2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Pt_Records_Form.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Pt_Reg_Form.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Report_Form.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Report_Records_Form.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Sample.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
